@@ -2,12 +2,13 @@
 
 ## District 31-5A
 
+|-|-|-|
 | Home | Score | Away |
-| Rio Grande City | ?-? | Sharyland | 
-|-|-|-| 
+| Rio Grande City |  | Sharyland | 
 | Roma | | Sharyland Pioneer |
 | Mission Veterans | | PSJA Southwest |
 | PSJA Memorial | | |
+|-|-|-|
 
 ## District 31-4A
 
