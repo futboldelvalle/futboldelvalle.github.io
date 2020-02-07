@@ -7,7 +7,20 @@
 | Rio Grande City |  | Sharyland | 
 | Roma | | Sharyland Pioneer |
 | Mission Veterans | | PSJA Southwest |
-| PSJA Memorial | | |
+| PSJA Memorial | | La Joya Palmview |
+
+## District 32-5A BOYS 
+| Home | Score | Away |
+|-|-|-|
+| Brownsville Lopez | | | 
+| Brownsville Pace | | | 
+| Brownsville Porter | | | 
+| Brownsville Veterans Memorial| | | 
+| Donna | | | 
+| Edcouch-Elsa | | | 
+| Mercedes | | || 
+| Pharr Valley View | | | 
+
 
 ## District 31-4A BOYS
 
