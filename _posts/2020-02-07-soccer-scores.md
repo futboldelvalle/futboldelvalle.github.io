@@ -153,7 +153,7 @@
 | Lyford | | | 
 | Monte Alto | | | 
 
-# Sample Table
+#  Standings Sample Table
 
 | Team | W | L | T | GF | GA | PTS |
 |-|-|-|-|-|-|-|
