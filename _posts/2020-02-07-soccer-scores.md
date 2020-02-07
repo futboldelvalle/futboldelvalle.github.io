@@ -256,7 +256,7 @@
 | team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
 
 $$
-e^{i\theta} = cos(\theta) + i\sin(\theta)
+e^{i\theta} = \cos(\theta) + i\sin(\theta)
 $$
 
 $$
