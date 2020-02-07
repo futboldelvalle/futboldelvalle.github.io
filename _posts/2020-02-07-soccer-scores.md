@@ -2,15 +2,18 @@
 
 District 31-5A
 
-Rio Grande City ?-? Sharyland 
 
-Roma
+## Tables
 
-Sharyland Pioneer
+| Rio Grande City | ?-? | Sharyland | 
 
-Mission Veterans
+|-|-|-| 
 
-PSJA Southwest 
+| Roma | | Sharyland Pioneer |
+
+| Mission Veterans | | PSJA Southwest |
+
+| PSJA Memorial | | |
 
 District 31-4A
 
@@ -28,3 +31,6 @@ Progreso
 
 Vanguard Academy Pharr 
 
+## Footnotes
+
+[^1]: This is the footnote.
