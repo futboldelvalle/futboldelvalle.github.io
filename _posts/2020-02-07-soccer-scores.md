@@ -58,6 +58,16 @@
 | Mercedes | | || 
 | Pharr Valley View | | | 
 
+
+## District 31-4A BOYS
+
+| Home | Score | Away |
+|-|-|-|
+| Hidalgo |  | Zapata |
+| Idea Quest |  | Grulla |
+| Progreso |  | Idea Quest |
+| Vanguard Pharr |  | Bye? |
+
 ## District 32-4A BOYS
 
 | Home | Score | Away |
@@ -72,17 +82,6 @@
 | Brownsville Jubilee | | | 
 | Lyford | | | 
 | Monte Alto | | | 
-
-
-## District 31-4A BOYS
-
-| Home | Score | Away |
-|-|-|-|
-| Hidalgo |  | Zapata |
-| Idea Quest |  | Grulla |
-| Progreso |  | Idea Quest |
-| Vanguard Pharr |  | Bye? |
-
 
 ## District 30-6A GIRLS
 
