@@ -255,6 +255,14 @@
 | team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
 | team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
 
+$$
+e^{i\theta} = cos(\theta) + i\sin(\theta)
+$$
+
+$$
+e^{i\pi} + 1 = 0 
+$$
+
 
 ## Footnotes
 
