@@ -10,13 +10,10 @@
 | PSJA Memorial | | |
 
 ## District 31-4A
-
+| Home | Score | Away |
 | Hidalgo | ?-? | Zapata |
-
 | Idea Quest | ?-? | Grulla |
-
 | Progreso | ?-? | Idea Quest |
-
 | Vanguard Pharr | ?-? | Bye? |
 
 ## Footnotes
