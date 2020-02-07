@@ -17,7 +17,6 @@
 | Idea Quest | ?-? | Grulla |
 | Progreso | ?-? | Idea Quest |
 | Vanguard Pharr | ?-? | Bye? |
-|-|-|-|
 
 
 ## District 31-5A GIRLS
@@ -37,7 +36,7 @@
 | Idea Quest | ?-? | Grulla |
 | Progreso | ?-? | Idea Quest |
 | Vanguard Pharr | ?-? | Bye? |
-|-|-|-| 
+
 ## Footnotes
 
 [^1]: This is the footnote.
