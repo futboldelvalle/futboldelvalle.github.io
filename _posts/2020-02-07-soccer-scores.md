@@ -46,6 +46,7 @@
 | PSJA Memorial | | La Joya Palmview |
 
 ## District 32-5A BOYS 
+
 | Home | Score | Away |
 |-|-|-|
 | Brownsville Lopez | | | 
@@ -56,6 +57,21 @@
 | Edcouch-Elsa | | | 
 | Mercedes | | || 
 | Pharr Valley View | | | 
+
+## District 32-4A BOYS
+
+| Home | Score | Away |
+|-|-|-| 
+| La Feria | | | 
+| Port Isabel | | | 
+| Raymondville | | | 
+| Rio Hondo | | | 
+| Brownsville | | | 
+| IDEAFrontier Coll Prep | | | 
+| Brownsville IDEA Riverview | | | 
+| Brownsville Jubilee | | | 
+| Lyford | | | 
+| Monte Alto | | | 
 
 
 ## District 31-4A BOYS
@@ -121,6 +137,22 @@
 | Idea Quest |  | Grulla |
 | Progreso |  | Idea Quest |
 | Vanguard Pharr |  | Bye? |
+
+
+## District 32-4A GIRLS
+
+| Home | Score | Away |
+|-|-|-| 
+| La Feria | | | 
+| Port Isabel | | | 
+| Raymondville | | | 
+| Rio Hondo | | | 
+| Brownsville | | | 
+| IDEAFrontier Coll Prep | | | 
+| Brownsville IDEA Riverview | | | 
+| Brownsville Jubilee | | | 
+| Lyford | | | 
+| Monte Alto | | | 
 
 ## Footnotes
 
