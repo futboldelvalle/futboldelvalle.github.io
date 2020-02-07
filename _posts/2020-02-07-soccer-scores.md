@@ -153,6 +153,17 @@
 | Lyford | | | 
 | Monte Alto | | | 
 
+# Sample Table
+
+| Team | W | L | T | GF | GA | PTS |
+|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
+| team1 | 5 | 1 | 0 | 10 | 12 | 15 | 
+| team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
+| team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
+| team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
+| team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
+
 ## Footnotes
 
 [^1]: This is the footnote.
