@@ -13,10 +13,10 @@
 
 | Home | Score | Away |
 |-|-|-|
-| Hidalgo | ?-? | Zapata |
-| Idea Quest | ?-? | Grulla |
-| Progreso | ?-? | Idea Quest |
-| Vanguard Pharr | ?-? | Bye? |
+| Hidalgo |  | Zapata |
+| Idea Quest |  | Grulla |
+| Progreso |  | Idea Quest |
+| Vanguard Pharr |  | Bye? |
 
 
 ## District 31-5A GIRLS
@@ -32,10 +32,10 @@
 
 | Home | Score | Away |
 |-|-|-|
-| Hidalgo | ?-? | Zapata |
-| Idea Quest | ?-? | Grulla |
-| Progreso | ?-? | Idea Quest |
-| Vanguard Pharr | ?-? | Bye? |
+| Hidalgo |  | Zapata |
+| Idea Quest |  | Grulla |
+| Progreso |  | Idea Quest |
+| Vanguard Pharr |  | Bye? |
 
 ## Footnotes
 
