@@ -1,5 +1,41 @@
 # Soccer Scores for 02/07/2020 
 
+## District 30-6A BOYS
+
+| Home | Score | Away |
+|-|-|-| 
+| La JoyaLa Joya Juarez-Lincoln | | | 
+| McAllen | | | 
+| McAllen Memorial | | | 
+| McAllen Rowe | | | 
+| Mission | | | 
+| Pharr-San Juan-Alamo | | | 
+| PSJA North | | | 
+
+## District 31-6A BOYS
+
+| Home | Score | Away |
+|-|-|-| 
+| Donna North | | |
+| Edinburg | | | 
+| Edinburg | | | 
+| Economedes | | | 
+| Edinburg North | | | 
+| Edinburg Vela | | | 
+| Weslaco | | |
+| Weslaco East | | | 
+
+## District 32-6A BOYS
+
+| Home | Score | Away |
+|-|-|-| 
+| Brownsville Hanna | | | 
+| Brownsville Rivera | | | 
+| Harlingen | | | 
+| Harlingen South | | | 
+| Los Fresnos | | | 
+| San Benito | | | 
+
 ## District 31-5A BOYS
 
 | Home | Score | Away |
@@ -31,6 +67,42 @@
 | Progreso |  | Idea Quest |
 | Vanguard Pharr |  | Bye? |
 
+
+## District 30-6A GIRLS
+
+| Home | Score | Away |
+|-|-|-| 
+| La JoyaLa Joya Juarez-Lincoln | | | 
+| McAllen | | | 
+| McAllen Memorial | | | 
+| McAllen Rowe | | | 
+| Mission | | | 
+| Pharr-San Juan-Alamo | | | 
+| PSJA North | | | 
+
+## District 31-6A GIRLS
+
+| Home | Score | Away |
+|-|-|-| 
+| Donna North | | |
+| Edinburg | | | 
+| Edinburg | | | 
+| Economedes | | | 
+| Edinburg North | | | 
+| Edinburg Vela | | | 
+| Weslaco | | |
+| Weslaco East | | | 
+
+## District 32-6A GIRLS
+
+| Home | Score | Away |
+|-|-|-| 
+| Brownsville Hanna | | | 
+| Brownsville Rivera | | | 
+| Harlingen | | | 
+| Harlingen South | | | 
+| Los Fresnos | | | 
+| San Benito | | | 
 
 ## District 31-5A GIRLS
 
