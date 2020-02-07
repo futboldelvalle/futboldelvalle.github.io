@@ -4,7 +4,8 @@
 
 | Home | Score | Away |
 |-|-|-| 
-| La JoyaLa Joya Juarez-Lincoln | | | 
+| La Joya | | | 
+| La Joya Juarez-Lincoln | | | 
 | McAllen | | | 
 | McAllen Memorial | | | 
 | McAllen Rowe | | | 
@@ -86,7 +87,8 @@
 
 | Home | Score | Away |
 |-|-|-| 
-| La JoyaLa Joya Juarez-Lincoln | | | 
+| La Joya | | | 
+| La Joya Juarez-Lincoln | | | 
 | McAllen | | | 
 | McAllen Memorial | | | 
 | McAllen Rowe | | | 
