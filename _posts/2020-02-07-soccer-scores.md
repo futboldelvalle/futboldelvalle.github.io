@@ -9,7 +9,7 @@
 | Mission Veterans | | PSJA Southwest |
 | PSJA Memorial | | |
 
-## District 31-4A
+### District 31-4A
 | Home | Score | Away |
 | Hidalgo | ?-? | Zapata |
 | Idea Quest | ?-? | Grulla |
