@@ -13,6 +13,14 @@
 | Pharr-San Juan-Alamo | | | 
 | PSJA North | | | 
 
+#  Standings
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
+
 ## District 31-6A BOYS
 
 | Home | Score | Away |
@@ -26,6 +34,14 @@
 | Weslaco | | |
 | Weslaco East | | | 
 
+#  Standings
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
+
 ## District 32-6A BOYS
 
 | Home | Score | Away |
@@ -37,6 +53,14 @@
 | Los Fresnos | | | 
 | San Benito | | | 
 
+#  Standings
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
+
 ## District 31-5A BOYS
 
 | Home | Score | Away |
@@ -45,6 +69,14 @@
 | Roma | | Sharyland Pioneer |
 | Mission Veterans | | PSJA Southwest |
 | PSJA Memorial | | La Joya Palmview |
+
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
 
 ## District 32-5A BOYS 
 
@@ -59,6 +91,13 @@
 | Mercedes | | || 
 | Pharr Valley View | | | 
 
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
 
 ## District 31-4A BOYS
 
@@ -68,6 +107,14 @@
 | Idea Quest |  | Grulla |
 | Progreso |  | Idea Quest |
 | Vanguard Pharr |  | Bye? |
+
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
 
 ## District 32-4A BOYS
 
@@ -83,6 +130,14 @@
 | Lyford | | | 
 | Monte Alto | | | 
 
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
+
 ## District 30-6A GIRLS
 
 | Home | Score | Away |
@@ -95,6 +150,14 @@
 | Mission | | | 
 | Pharr-San Juan-Alamo | | | 
 | PSJA North | | | 
+
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
 
 ## District 31-6A GIRLS
 
@@ -109,6 +172,14 @@
 | Weslaco | | |
 | Weslaco East | | | 
 
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
+
 ## District 32-6A GIRLS
 
 | Home | Score | Away |
@@ -120,6 +191,14 @@
 | Los Fresnos | | | 
 | San Benito | | | 
 
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
+
 ## District 31-5A GIRLS
 
 | Home | Score | Away |
@@ -128,6 +207,14 @@
 | Roma | | Sharyland Pioneer |
 | Mission Veterans | | PSJA Southwest |
 | PSJA Memorial | | La Joya Palmview |
+
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
 
 ## District 31-4A GIRLS
 
@@ -138,6 +225,13 @@
 | Progreso |  | Idea Quest |
 | Vanguard Pharr |  | Bye? |
 
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
 
 ## District 32-4A GIRLS
 
@@ -153,7 +247,7 @@
 | Lyford | | | 
 | Monte Alto | | | 
 
-#  Standings Sample Table
+#  Standings 
 
 | Team | W | L | T | GF | GA | DIF| PTS |
 |-|-|-|-|-|-|-|-|
