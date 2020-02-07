@@ -2,7 +2,6 @@
 
 ## District 31-5A
 
-|-|-|-|
 | Home | Score | Away |
 | Rio Grande City |  | Sharyland | 
 | Roma | | Sharyland Pioneer |
@@ -17,6 +16,7 @@
 | Idea Quest | ?-? | Grulla |
 | Progreso | ?-? | Idea Quest |
 | Vanguard Pharr | ?-? | Bye? |
+|-|-|-|
 
 ## Footnotes
 
