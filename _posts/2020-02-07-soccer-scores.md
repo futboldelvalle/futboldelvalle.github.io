@@ -127,7 +127,7 @@
 | Rio Grande City |  | Sharyland | 
 | Roma | | Sharyland Pioneer |
 | Mission Veterans | | PSJA Southwest |
-| PSJA Memorial | | |
+| PSJA Memorial | | La Joya Palmview |
 
 ## District 31-4A GIRLS
 
@@ -158,11 +158,9 @@
 | Team | W | L | T | GF | GA | PTS |
 |-|-|-|-|-|-|-|
 | team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
-| team1 | 5 | 1 | 0 | 10 | 12 | 15 | 
-| team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
-| team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
-| team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
-| team1 | 3 | 2 | 1 | 10 | 12 | 10 | 
+| team2 | 5 | 1 | 0 | 10 | 12 | 15 | 
+| team3 | 3 | 3 | 1 | 10 | 12 | 10 | 
+
 
 ## Footnotes
 
