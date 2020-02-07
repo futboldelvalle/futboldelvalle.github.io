@@ -3,15 +3,16 @@
 ## District 31-5A
 
 | Home | Score | Away |
+|-|-|-|
 | Rio Grande City |  | Sharyland | 
 | Roma | | Sharyland Pioneer |
 | Mission Veterans | | PSJA Southwest |
 | PSJA Memorial | | |
-|-|-|-|
 
 ## District 31-4A
 
 | Home | Score | Away |
+|-|-|-|
 | Hidalgo | ?-? | Zapata |
 | Idea Quest | ?-? | Grulla |
 | Progreso | ?-? | Idea Quest |
