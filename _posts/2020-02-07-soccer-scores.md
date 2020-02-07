@@ -76,8 +76,7 @@
 | Port Isabel | | | 
 | Raymondville | | | 
 | Rio Hondo | | | 
-| Brownsville | | | 
-| IDEAFrontier Coll Prep | | | 
+| Brownsville IDEAFrontier Coll Prep | | | 
 | Brownsville IDEA Riverview | | | 
 | Brownsville Jubilee | | | 
 | Lyford | | | 
@@ -146,8 +145,7 @@
 | Port Isabel | | | 
 | Raymondville | | | 
 | Rio Hondo | | | 
-| Brownsville | | | 
-| IDEAFrontier Coll Prep | | | 
+| Brownsville IDEAFrontier Coll Prep | | | 
 | Brownsville IDEA Riverview | | | 
 | Brownsville Jubilee | | | 
 | Lyford | | | 
