@@ -137,7 +137,7 @@ San Benito | | |
 | La Joya | | | 
 | La Joya Juarez-Lincoln | | | 
 | McAllen | | | 
-| McAllen Memorial | | | 
+| McAllen Memorial | 6-0 | PSJA High | 
 | McAllen Rowe | | | 
 | Mission | | | 
 | Pharr-San Juan-Alamo | | | 
@@ -183,6 +183,26 @@ San Benito | | |
 | team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
 | team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
 | team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
+
+
+## District 32-5A BOYS 
+
+| Home | Score | Away |
+|-|-|-|
+| Brownsville Lopez |  | Donna High| 
+| Brownsville Pace | 3-0 | Mercedes | 
+| Brownsville Porter | 2-1 | Brownsville Veterans Memorial| | | 
+| Edcouch-Elsa | | | 
+| Pharr Valley View | | | 
+
+#  Standings 
+
+| Team | W | L | T | GF | GA | DIF| PTS |
+|-|-|-|-|-|-|-|-|
+| team1 | 3 | 2 | 1 | 10 | 12 | +2 |  10 | 
+| team2 | 5 | 1 | 0 | 19 | 2 | +17| 15 | 
+| team3 | 3 | 3 | 1 | 9 | 12 | -3 | 10 | 
+
 
 ## District 31-5A GIRLS
 
