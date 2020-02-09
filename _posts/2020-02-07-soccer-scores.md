@@ -114,8 +114,7 @@ San Benito | | |
 | Home | Score | Away |
 |-|-|-| 
 | La Feria | | | 
-| Port Isabel | | | 
-| Raymondville | | | 
+| Port Isabel | 7-3 | Raymondville | 
 | Rio Hondo | | | 
 | Brownsville IDEAFrontier Coll Prep | | | 
 | Brownsville IDEA Riverview | | | 
