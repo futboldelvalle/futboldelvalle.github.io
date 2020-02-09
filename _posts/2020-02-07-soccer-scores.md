@@ -1,5 +1,7 @@
 # Soccer Scores for 02/07/2020 
 
+Some scores obtained from [www.rgvsports.com](https://rgvsports.com/news/85687/valley-hs-soccer-scores/)
+
 ## District 30-6A BOYS
 
 | Home | Score | Away |
