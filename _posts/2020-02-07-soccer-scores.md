@@ -176,12 +176,9 @@ San Benito | | |
 
 | Home | Score | Away |
 |-|-|-| 
-| Brownsville Hanna | | | 
-| Brownsville Rivera | | | 
-| Harlingen | | | 
-| Harlingen South | | | 
-| Los Fresnos | | | 
-| San Benito | | | 
+| Brownsville Hanna | 8-0 | San Benito | 
+| Harlingen South | 2-1 | Brownsville Rivera| 
+| Los Fresnos | 3-2 PKS(3-1)| Harlingen High| 
 
 #  Standings 
 
