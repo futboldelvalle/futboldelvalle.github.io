@@ -155,13 +155,9 @@ San Benito | | |
 
 | Home | Score | Away |
 |-|-|-| 
-| Donna North | | |
-| Edinburg | | | 
-| Edinburg | | | 
-| Economedes | | | 
-| Edinburg North | | | 
-| Edinburg Vela | | | 
-| Weslaco | | |
+| Donna North | 9-1 | Edinburg Economedes|
+| Edinburg High | 1-0 | Edinburg North | 
+| Edinburg Vela | 9-1 | Weslaco High| 
 | Weslaco East | | | 
 
 #  Standings 
