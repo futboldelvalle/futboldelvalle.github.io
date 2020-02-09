@@ -46,12 +46,11 @@
 
 | Home | Score | Away |
 |-|-|-| 
+| Los Fresnos | 3-2 OT | Harlingen High | 
 | Brownsville Hanna | | | 
 | Brownsville Rivera | | | 
-| Harlingen | | | 
 | Harlingen South | | | 
-| Los Fresnos | | | 
-| San Benito | | | 
+San Benito | | | 
 
 #  Standings
 
