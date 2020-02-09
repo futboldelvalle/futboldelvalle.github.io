@@ -274,6 +274,12 @@ $$
 \sum_{n=1}^{\infty} \frac{1}{n^{2}} = \frac{\pi^{2}}{6}
 $$
 
+$$
+\matrix{ TEAM & G1 & G2 & G3 & G4 & G5 & G6 & G7 & G8 & G9 & G10 & G11 & G12 & G13 & G14 & \sum_{n} \cr
+         Team-GF & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 & 13 & 14 & 105 \cr
+         Team-GA & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \cr}
+$$
+
 ## Footnotes
 
 [^1]: This is the footnote.
