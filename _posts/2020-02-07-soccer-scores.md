@@ -25,12 +25,9 @@
 
 | Home | Score | Away |
 |-|-|-| 
-| Donna North | | |
-| Edinburg | | | 
-| Edinburg | | | 
-| Economedes | | | 
-| Edinburg North | | | 
-| Edinburg Vela | | | 
+| Donna North | 4-1 | Edinburg Economedes |
+| Edinburg | 1-1| Edinburg North |
+| Edinburg Vela | 4-1 | Weslaco High | 
 | Weslaco | | |
 | Weslaco East | | | 
 
@@ -81,13 +78,10 @@ San Benito | | |
 
 | Home | Score | Away |
 |-|-|-|
-| Brownsville Lopez | | | 
-| Brownsville Pace | | | 
-| Brownsville Porter | | | 
-| Brownsville Veterans Memorial| | | 
-| Donna | | | 
+| Brownsville Lopez | 4-1 | Donna High| 
+| Brownsville Pace | 3-1 | Mercedes | 
+| Brownsville Porter | 1-3 | Brownsville Veterans Memorial| | | 
 | Edcouch-Elsa | | | 
-| Mercedes | | || 
 | Pharr Valley View | | | 
 
 #  Standings 
