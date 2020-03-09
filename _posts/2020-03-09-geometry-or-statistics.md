@@ -36,5 +36,8 @@ $$a^{2} + b^{2} = c^{2}$$
 ## Statistcs Random Variables Sampling Distributions
 
 *Online Textbook with Videos & Google Slides with homeworks and online pdf for students to download* 
+
 [Advanced High School Statistics](https://www.openintro.org/book/ahss/)
+
+**Currently working on Chapter 5 and 6 **
 
