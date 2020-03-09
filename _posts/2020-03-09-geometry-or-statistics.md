@@ -1,12 +1,14 @@
 # Geometry/Statistics 03/09/2020 
 
-
+---
+* Find the hypotenuse of the right triangle when given legs a and b *
+**Items 1 - 10 count for Friday March 6, and 11 - 20 for today March 9**
 
 ## Geometry Pythagorean Theorem
 $$a^{2} + b^{2} = c^{2}$$
 
 
-| No. | a | b | c |
+| No. | *a* | *b* | *c* |
 |-|-|-|-|
 |(1) | 24 | 10 | ? |
 | (2) | 35 | 12 | ? |
@@ -29,3 +31,6 @@ $$a^{2} + b^{2} = c^{2}$$
 | (19) | 99 | 20 | ? |
 | (20) | 120 | 22 | ? |
 
+---
+
+## Statistcs Random Variables Sampling Distributions
