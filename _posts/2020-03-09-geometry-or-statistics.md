@@ -2,6 +2,7 @@
 
 ---
 * Find the hypotenuse of the right triangle when given legs a and b *
+
 **Items 1 - 10 count for Friday March 6, and 11 - 20 for today March 9**
 
 ## Geometry Pythagorean Theorem
