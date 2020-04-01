@@ -231,8 +231,10 @@ Only do #4, #5, #9, #22, #23, #26, #27, #29
 
 #2, #5, #6, #9, #12, #18, #19, #20 and #22
 
+### Describing Bivariate Data
 
-http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html
+[http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html]
+(http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html)
 
 #4, #8, #9, #17, #19 #21
 
