@@ -36,21 +36,29 @@ Look at simulations:
 
 ## Conditional Probability
 
-http://onlinestatbook.com/mobile/probability/conditional_demo.html
+[http://onlinestatbook.com/mobile/probability/conditional_demo.html]
+(http://onlinestatbook.com/mobile/probability/conditional_demo.html)
 
 ## Binomial
 
-http://onlinestatbook.com/mobile/probability/binomial_demonstration.html
+[http://onlinestatbook.com/mobile/probability/binomial_demonstration.html]
+(http://onlinestatbook.com/mobile/probability/binomial_demonstration.html]
 
 ## Bayes Theorem
-http://onlinestatbook.com/mobile/probability/bayes_demo.html
+
+[http://onlinestatbook.com/mobile/probability/bayes_demo.html]
+(http://onlinestatbook.com/mobile/probability/bayes_demo.html)
 
 
 ## Varieties of normal distributions
-http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html
+
+[http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html]
+(http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html)
 
 ## Normal approximation
-http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html
+
+[http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html]
+(http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html)
 
 
 ## Sampling distribution
