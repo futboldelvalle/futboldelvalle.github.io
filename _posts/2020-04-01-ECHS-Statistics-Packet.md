@@ -14,11 +14,13 @@ Look at simulations:
 
 ## Box plot 
 
-http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html
+[http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html]
+(http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html)
 
 ## Mean and Median
 
-http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html
+[http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html]
+(http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html)
 
 
 ## Correlation
