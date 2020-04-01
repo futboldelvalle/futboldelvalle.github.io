@@ -218,16 +218,21 @@ http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html
 
 #4, #8, #9, #17, #19 #21
 
-https://www.stattrek.com/
+[https://www.stattrek.com/]
+(https://www.stattrek.com/)
 
-https://www.stattrek.com/tutorials/ap-statistics-tutorial.aspx
+[https://www.stattrek.com/tutorials/ap-statistics-tutorial.aspx]
+(https://www.stattrek.com/tutorials/ap-statistics-tutorial.aspx)
 
+### Practice Test:
 
-Practice Test:
-https://www.stattrek.com/ap-statistics/practice-test.aspx?tutorial=ap
+[https://www.stattrek.com/ap-statistics/practice-test.aspx?tutorial=ap]
+(https://www.stattrek.com/ap-statistics/practice-test.aspx?tutorial=ap)
 
-AP Central Website
-https://apcentral.collegeboard.org/
+### AP Central Website
+
+[https://apcentral.collegeboard.org/]
+(https://apcentral.collegeboard.org/)
 
 
 
