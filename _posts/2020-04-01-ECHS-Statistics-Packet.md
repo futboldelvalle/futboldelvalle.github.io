@@ -104,7 +104,9 @@ You flip a coin and then roll a die. What is the probability of obtaining a head
 Question 4 out of 4.
 You are going to select first and second place prizes out of 5 entries. How many possible outcomes are there?
 
-http://onlinestatbook.com/mobile/probability/binomial.html
+### Binomial 
+[http://onlinestatbook.com/mobile/probability/binomial.html]
+(http://onlinestatbook.com/mobile/probability/binomial.html]
 
 Question 1 out of 6.
 Select all that apply. Which of the following probabilities can be found using the binomial distribution? 
