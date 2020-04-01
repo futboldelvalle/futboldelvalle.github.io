@@ -136,19 +136,25 @@ The probability that you will win a certain game is 0.3. You play the game 20 ti
 Question 6 out of 6.
 A biased coin has a .6 chance of coming up heads. You flip it 50 times. What is the variance of this distribution? 
 
-Multinomial
-http://onlinestatbook.com/mobile/probability/multinomial.html
+### Multinomial
+
+[http://onlinestatbook.com/mobile/probability/multinomial.html]
+(http://onlinestatbook.com/mobile/probability/multinomial.html)
 
 Question 1 out of 1.
 In a certain town, 40% of the eligible voters prefer candidate A, 10% prefer candidate B, and the remaining 50% have no preference. You randomly sample 10 eligible voters. What is the probability that 4 will prefer candidate A, 1 will prefer candidate B, and the remaining 5 will have no preference? 
 
-Hypergeometric
-http://onlinestatbook.com/mobile/probability/hypergeometric.html
+### Hypergeometric
+
+[http://onlinestatbook.com/mobile/probability/hypergeometric.html]
+(http://onlinestatbook.com/mobile/probability/hypergeometric.html)
 
 Question 1 out of 1.
 A wallet contains 3 $100 bills and 5 $1 bills. You randomly choose 4 bills. What is the probability that you will choose exactly 2 $100 bills? 
 
-http://onlinestatbook.com/mobile/probability/ch5_exercises.html
+### Exercises
+[http://onlinestatbook.com/mobile/probability/ch5_exercises.html]
+(http://onlinesratbook.com/mobile/probability/ch5_exercises.html)
 
 
 
@@ -196,7 +202,10 @@ True/False: You are more likely to get a pattern of HTHHHTHTTH than HHHHHHHHTT w
 (13)
 True/False: Suppose that at your regular physical exam you test positive for a relatively rare disease. You will need to start taking medicine if you have the disease, so you ask your doctor about the accuracy of the test. It turns out that the test is 98% accurate. The probability that you have Disease X is therefore 0.98 and the probability that you do not have it is .02. (relevant section)
 
-http://onlinestatbook.com/mobile/calculators/calculators.html
+### Calculators
+
+[http://onlinestatbook.com/mobile/calculators/calculators.html]
+(http://onlinestatbook.com/mobile/calculators/calculators.html)
 
 
 http://onlinestatbook.com/mobile/summarizing_distributions/summarizing_distributions.html
