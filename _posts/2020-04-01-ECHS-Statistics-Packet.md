@@ -32,8 +32,8 @@ Look at simulations:
 ## Variance
 
 [http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html]
-(http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html]
-
+(http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html)
+In
 ## Conditional Probability
 
 [http://onlinestatbook.com/mobile/probability/conditional_demo.html]
@@ -42,7 +42,7 @@ Look at simulations:
 ## Binomial
 
 [http://onlinestatbook.com/mobile/probability/binomial_demonstration.html]
-(http://onlinestatbook.com/mobile/probability/binomial_demonstration.html]
+(http://onlinestatbook.com/mobile/probability/binomial_demonstration.html)
 
 ## Bayes Theorem
 
@@ -106,7 +106,7 @@ You are going to select first and second place prizes out of 5 entries. How many
 
 ### Binomial 
 [http://onlinestatbook.com/mobile/probability/binomial.html]
-(http://onlinestatbook.com/mobile/probability/binomial.html]
+(http://onlinestatbook.com/mobile/probability/binomial.html)
 
 Question 1 out of 6.
 Select all that apply. Which of the following probabilities can be found using the binomial distribution? 
@@ -219,7 +219,7 @@ True/False: Suppose that at your regular physical exam you test positive for a r
 [http://onlinestatbook.com/mobile/summarizing_distributions/ch3_exercises.html]
 (http://onlinestatbook.com/mobile/summarizing_distributions/ch3_exercises.html)
 
-Only do #4, #5, #9, #22, #23, #26, #27, #29
+Only do \#4, \#5, \#9, \#22, \#23, \#26, \#27, \#29
 
 ### Hypothesis testing
 
@@ -231,14 +231,14 @@ Only do #4, #5, #9, #22, #23, #26, #27, #29
 [http://onlinestatbook.com/mobile/regression/regression_exercises.html]
 (http://onlinestatbook.com/mobile/regression/regression_exercises.html)
 
-#2, #5, #6, #9, #12, #18, #19, #20 and #22
+\#2, \#5, \#6, \#9, \#12, \#18, \#19, \#20 and \#22
 
 ### Describing Bivariate Data
 
 [http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html]
 (http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html)
 
-#4, #8, #9, #17, #19 #21
+\#4, \#8, \#9, \#17, \#19 \#21
 
 [https://www.stattrek.com/]
 (https://www.stattrek.com/)
