@@ -64,20 +64,29 @@ Look at simulations:
 ## Sampling distribution
 
 ###1 Basic Demo
-http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html
+
+[http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html]
+(http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html)
 
 ###2 Sampling Size Demo
-http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html
+
+[http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html]
+(http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html)
 
 ### Central Limit Theorem
-http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html
+
+[http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html]
+(http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html)
 
 ### Confidence Interval
-http://onlinestatbook.com/mobile/estimation/ci_sim.html
+
+[http://onlinestatbook.com/mobile/estimation/ci_sim.html]
+(http://onlinestatbook.com/mobile/estimation/ci_sim.html)
 
 ### Permutations:
 
-http://onlinestatbook.com/mobile/probability/permutations.html
+[http://onlinestatbook.com/mobile/probability/permutations.html]
+(http://onlinestatbook.com/mobile/probability/permutations.html)
 
 Question 1 out of 4.
 Order counts in
