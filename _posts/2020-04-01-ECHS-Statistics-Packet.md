@@ -2,10 +2,12 @@
 
 
 From PC
-http://onlinestatbook.com/
+[http://onlinestatbook.com]
+(http://onlinestatbook.com/)
 
 On mobile/Tablet
-http://onlinestatbook.com/mobile/index.html
+[http://onlinestatbook.com/mobile/index.html]
+(http://onlinestatbook.com/mobile/index.html)
 
 
 Look at simulations:
