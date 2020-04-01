@@ -12,55 +12,56 @@ On mobile/Tablet
 
 Look at simulations:
 
-Box plot 
+## Box plot 
 
 http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html
 
-Mean and Median
+## Mean and Median
 
 http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html
 
 
-Correlation
+## Correlation
 http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html
 
 
-Variance
+## Variance
 http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html
 
-Conditional Probability
+## Conditional Probability
 
 http://onlinestatbook.com/mobile/probability/conditional_demo.html
 
-Binomial
+## Binomial
 
 http://onlinestatbook.com/mobile/probability/binomial_demonstration.html
 
-Bayes Theorem
+## Bayes Theorem
 http://onlinestatbook.com/mobile/probability/bayes_demo.html
 
 
-Varieties of normal distributions
+## Varieties of normal distributions
 http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html
 
-Normal approximation
+## Normal approximation
 http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html
 
 
-Sampling distribution
-1 Basic Demo
+## Sampling distribution
+
+###1 Basic Demo
 http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html
 
-2 Sampling Size Demo
+###2 Sampling Size Demo
 http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html
 
-Central Limit Theorem
+### Central Limit Theorem
 http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html
 
-Confidence Interval
+### Confidence Interval
 http://onlinestatbook.com/mobile/estimation/ci_sim.html
 
-Permutations:
+### Permutations:
 
 http://onlinestatbook.com/mobile/probability/permutations.html
 
