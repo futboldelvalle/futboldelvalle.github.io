@@ -24,11 +24,15 @@ Look at simulations:
 
 
 ## Correlation
-http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html
+
+[http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html]
+(http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html)
 
 
 ## Variance
-http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html
+
+[http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html]
+(http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html]
 
 ## Conditional Probability
 
