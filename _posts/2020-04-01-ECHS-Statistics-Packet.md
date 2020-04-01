@@ -2,91 +2,76 @@
 
 
 From PC
-[http://onlinestatbook.com]
-(http://onlinestatbook.com/)
+[http://onlinestatbook.com](http://onlinestatbook.com/)
 
 On mobile/Tablet
-[http://onlinestatbook.com/mobile/index.html]
-(http://onlinestatbook.com/mobile/index.html)
+[http://onlinestatbook.com/mobile/index.html](http://onlinestatbook.com/mobile/index.html)
 
 
 Look at simulations:
 
 ## Box plot 
 
-[http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html]
-(http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html)
+[http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html](http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html)
 
 ## Mean and Median
 
-[http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html]
-(http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html)
+[http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html](http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html)
 
 
 ## Correlation
 
-[http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html]
-(http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html)
+[http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html](http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html)
 
 
 ## Variance
 
-[http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html]
-(http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html)
+[http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html](http://onlinestatbook.com/mobile/summarizing_distributions/variance_est.html)
+
 In
 ## Conditional Probability
 
-[http://onlinestatbook.com/mobile/probability/conditional_demo.html]
-(http://onlinestatbook.com/mobile/probability/conditional_demo.html)
+[http://onlinestatbook.com/mobile/probability/conditional_demo.html](http://onlinestatbook.com/mobile/probability/conditional_demo.html)
 
 ## Binomial
 
-[http://onlinestatbook.com/mobile/probability/binomial_demonstration.html]
-(http://onlinestatbook.com/mobile/probability/binomial_demonstration.html)
+[http://onlinestatbook.com/mobile/probability/binomial_demonstration.html](http://onlinestatbook.com/mobile/probability/binomial_demonstration.html)
 
 ## Bayes Theorem
 
-[http://onlinestatbook.com/mobile/probability/bayes_demo.html]
-(http://onlinestatbook.com/mobile/probability/bayes_demo.html)
+[http://onlinestatbook.com/mobile/probability/bayes_demo.html](http://onlinestatbook.com/mobile/probability/bayes_demo.html)
 
 
 ## Varieties of normal distributions
 
-[http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html]
-(http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html)
+[http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html](http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html)
 
 ## Normal approximation
 
-[http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html]
-(http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html)
+[http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html](http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html)
 
 
 ## Sampling distribution
 
 ###1 Basic Demo
 
-[http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html]
-(http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html)
+[http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html](http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html)
 
 ###2 Sampling Size Demo
 
-[http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html]
-(http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html)
+[http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html](http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html)
 
 ### Central Limit Theorem
 
-[http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html]
-(http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html)
+[http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html](http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html)
 
 ### Confidence Interval
 
-[http://onlinestatbook.com/mobile/estimation/ci_sim.html]
-(http://onlinestatbook.com/mobile/estimation/ci_sim.html)
+[http://onlinestatbook.com/mobile/estimation/ci_sim.html](http://onlinestatbook.com/mobile/estimation/ci_sim.html)
 
 ### Permutations:
 
-[http://onlinestatbook.com/mobile/probability/permutations.html]
-(http://onlinestatbook.com/mobile/probability/permutations.html)
+[http://onlinestatbook.com/mobile/probability/permutations.html](http://onlinestatbook.com/mobile/probability/permutations.html)
 
 Question 1 out of 4.
 Order counts in
@@ -105,8 +90,7 @@ Question 4 out of 4.
 You are going to select first and second place prizes out of 5 entries. How many possible outcomes are there?
 
 ### Binomial 
-[http://onlinestatbook.com/mobile/probability/binomial.html]
-(http://onlinestatbook.com/mobile/probability/binomial.html)
+[http://onlinestatbook.com/mobile/probability/binomial.html](http://onlinestatbook.com/mobile/probability/binomial.html)
 
 Question 1 out of 6.
 Select all that apply. Which of the following probabilities can be found using the binomial distribution? 
@@ -140,23 +124,20 @@ A biased coin has a .6 chance of coming up heads. You flip it 50 times. What is 
 
 ### Multinomial
 
-[http://onlinestatbook.com/mobile/probability/multinomial.html]
-(http://onlinestatbook.com/mobile/probability/multinomial.html)
+[http://onlinestatbook.com/mobile/probability/multinomial.html](http://onlinestatbook.com/mobile/probability/multinomial.html)
 
 Question 1 out of 1.
 In a certain town, 40\% of the eligible voters prefer candidate A, 10\% prefer candidate B, and the remaining 50\% have no preference. You randomly sample 10 eligible voters. What is the probability that 4 will prefer candidate A, 1 will prefer candidate B, and the remaining 5 will have no preference? 
 
 ### Hypergeometric
 
-[http://onlinestatbook.com/mobile/probability/hypergeometric.html]
-(http://onlinestatbook.com/mobile/probability/hypergeometric.html)
+[http://onlinestatbook.com/mobile/probability/hypergeometric.html](http://onlinestatbook.com/mobile/probability/hypergeometric.html)
 
 Question 1 out of 1.
 A wallet contains 3 \$100 bills and 5 \$1 bills. You randomly choose 4 bills. What is the probability that you will choose exactly 2 \$100 bills? 
 
 ### Exercises
-[http://onlinestatbook.com/mobile/probability/ch5_exercises.html]
-(http://onlinesratbook.com/mobile/probability/ch5_exercises.html)
+[http://onlinestatbook.com/mobile/probability/ch5_exercises.html](http://onlinesratbook.com/mobile/probability/ch5_exercises.html)
 
 
 
@@ -206,55 +187,45 @@ True/False: Suppose that at your regular physical exam you test positive for a r
 
 ### Calculators
 
-[http://onlinestatbook.com/mobile/calculators/calculators.html]
-(http://onlinestatbook.com/mobile/calculators/calculators.html)
+[http://onlinestatbook.com/mobile/calculators/calculators.html](http://onlinestatbook.com/mobile/calculators/calculators.html)
 
 ### Summarizing Distributions
 
-[http://onlinestatbook.com/mobile/summarizing_distributions/summarizing_distributions.html]
-(http://onlinestatbook.com/mobile/summarizing_distributions/summarizibg_distributions.html)
+[http://onlinestatbook.com/mobile/summarizing_distributions/summarizing_distributions.html](http://onlinestatbook.com/mobile/summarizing_distributions/summarizibg_distributions.html)
 
 ### Exercises
 
-[http://onlinestatbook.com/mobile/summarizing_distributions/ch3_exercises.html]
-(http://onlinestatbook.com/mobile/summarizing_distributions/ch3_exercises.html)
+[http://onlinestatbook.com/mobile/summarizing_distributions/ch3_exercises.html](http://onlinestatbook.com/mobile/summarizing_distributions/ch3_exercises.html)
 
 Only do \#4, \#5, \#9, \#22, \#23, \#26, \#27, \#29
 
 ### Hypothesis testing
 
-[http://onlinestatbook.com/mobile/logic_of_hypothesis_testing/logic_hypothesis.html]
-(http://onlinestatbook.com/mobile/logic_of_hypothesis_testing/logic_hypothesis.html)
+[http://onlinestatbook.com/mobile/logic_of_hypothesis_testing/logic_hypothesis.html](http://onlinestatbook.com/mobile/logic_of_hypothesis_testing/logic_hypothesis.html)
 
 ### Regression Exercises
 
-[http://onlinestatbook.com/mobile/regression/regression_exercises.html]
-(http://onlinestatbook.com/mobile/regression/regression_exercises.html)
+[http://onlinestatbook.com/mobile/regression/regression_exercises.html](http://onlinestatbook.com/mobile/regression/regression_exercises.html)
 
 \#2, \#5, \#6, \#9, \#12, \#18, \#19, \#20 and \#22
 
 ### Describing Bivariate Data
 
-[http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html]
-(http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html)
+[http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html](http://onlinestatbook.com/mobile/describing_bivariate_data/ch4_exercises.html)
 
 \#4, \#8, \#9, \#17, \#19 \#21
 
-[https://www.stattrek.com/]
-(https://www.stattrek.com/)
+[https://www.stattrek.com/](https://www.stattrek.com/)
 
-[https://www.stattrek.com/tutorials/ap-statistics-tutorial.aspx]
-(https://www.stattrek.com/tutorials/ap-statistics-tutorial.aspx)
+[https://www.stattrek.com/tutorials/ap-statistics-tutorial.aspx](https://www.stattrek.com/tutorials/ap-statistics-tutorial.aspx)
 
 ### Practice Test:
 
-[https://www.stattrek.com/ap-statistics/practice-test.aspx?tutorial=ap]
-(https://www.stattrek.com/ap-statistics/practice-test.aspx?tutorial=ap)
+[https://www.stattrek.com/ap-statistics/practice-test.aspx?tutorial=ap](https://www.stattrek.com/ap-statistics/practice-test.aspx?tutorial=ap)
 
 ### AP Central Website
 
-[https://apcentral.collegeboard.org/]
-(https://apcentral.collegeboard.org/)
+[https://apcentral.collegeboard.org/](https://apcentral.collegeboard.org/)
 
 
 
