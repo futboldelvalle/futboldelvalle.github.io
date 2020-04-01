@@ -207,18 +207,27 @@ True/False: Suppose that at your regular physical exam you test positive for a r
 [http://onlinestatbook.com/mobile/calculators/calculators.html]
 (http://onlinestatbook.com/mobile/calculators/calculators.html)
 
+### Summarizing Distributions
 
-http://onlinestatbook.com/mobile/summarizing_distributions/summarizing_distributions.html
+[http://onlinestatbook.com/mobile/summarizing_distributions/summarizing_distributions.html]
+(http://onlinestatbook.com/mobile/summarizing_distributions/summarizibg_distributions.html)
 
+### Exercises
 
-http://onlinestatbook.com/mobile/summarizing_distributions/ch3_exercises.html
+[http://onlinestatbook.com/mobile/summarizing_distributions/ch3_exercises.html]
+(http://onlinestatbook.com/mobile/summarizing_distributions/ch3_exercises.html)
 
 Only do #4, #5, #9, #22, #23, #26, #27, #29
 
-http://onlinestatbook.com/mobile/logic_of_hypothesis_testing/logic_hypothesis.html
+### Hypothesis testing
 
+[http://onlinestatbook.com/mobile/logic_of_hypothesis_testing/logic_hypothesis.html]
+(http://onlinestatbook.com/mobile/logic_of_hypothesis_testing/logic_hypothesis.html)
 
-http://onlinestatbook.com/mobile/regression/regression_exercises.html
+### Regression Exercises
+
+[http://onlinestatbook.com/mobile/regression/regression_exercises.html]
+(http://onlinestatbook.com/mobile/regression/regression_exercises.html)
 
 #2, #5, #6, #9, #12, #18, #19, #20 and #22
 
