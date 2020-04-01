@@ -144,7 +144,7 @@ A biased coin has a .6 chance of coming up heads. You flip it 50 times. What is 
 (http://onlinestatbook.com/mobile/probability/multinomial.html)
 
 Question 1 out of 1.
-In a certain town, 40\% of the eligible voters prefer candidate A, 10% prefer candidate B, and the remaining 50% have no preference. You randomly sample 10 eligible voters. What is the probability that 4 will prefer candidate A, 1 will prefer candidate B, and the remaining 5 will have no preference? 
+In a certain town, 40\% of the eligible voters prefer candidate A, 10\% prefer candidate B, and the remaining 50\% have no preference. You randomly sample 10 eligible voters. What is the probability that 4 will prefer candidate A, 1 will prefer candidate B, and the remaining 5 will have no preference? 
 
 ### Hypergeometric
 
@@ -174,13 +174,13 @@ A fair coin is flipped 9 times. What is the probability of getting exactly 6 hea
 
 
 (5)
-When Susan and Jessica play a card game, Susan wins 60% of the time. If they play 9 games, what is the probability that Jessica will have won more games than Susan? (relevant section)
+When Susan and Jessica play a card game, Susan wins 60\% of the time. If they play 9 games, what is the probability that Jessica will have won more games than Susan? (relevant section)
 
 (6)
 You flip a coin three times. (a) What is the probability of getting heads on only one of your flips? (b) What is the probability of getting heads on at least one flip? (relevant section & relevant section)
 
 (7) 
-A test correctly identifies a disease in 95% of people who have it. It correctly identifies no disease in 94% of people who do not have it. In the population, 3% of the people have the disease. What is the probability that you have the disease if you tested positive? (relevant section)
+A test correctly identifies a disease in 95\% of people who have it. It correctly identifies no disease in 94\% of people who do not have it. In the population, 3\% of the people have the disease. What is the probability that you have the disease if you tested positive? (relevant section)
 
 (8)
 A jar contains 10 blue marbles, 5 red marbles, 4 green marbles, and 1 yellow marble. Two marbles are chosen (without replacement). (a) What is the probability that one will be green and the other red? (b) What is the probability that one will be blue and the other yellow? (relevant section)
@@ -202,7 +202,7 @@ What is the probability that you draw two cards from a deck and both of them are
 True/False: You are more likely to get a pattern of HTHHHTHTTH than HHHHHHHHTT when you flip a coin 10 times. (relevant section)
 
 (13)
-True/False: Suppose that at your regular physical exam you test positive for a relatively rare disease. You will need to start taking medicine if you have the disease, so you ask your doctor about the accuracy of the test. It turns out that the test is 98% accurate. The probability that you have Disease X is therefore 0.98 and the probability that you do not have it is .02. (relevant section)
+True/False: Suppose that at your regular physical exam you test positive for a relatively rare disease. You will need to start taking medicine if you have the disease, so you ask your doctor about the accuracy of the test. It turns out that the test is 98\% accurate. The probability that you have Disease X is therefore 0.98 and the probability that you do not have it is .02. (relevant section)
 
 ### Calculators
 
