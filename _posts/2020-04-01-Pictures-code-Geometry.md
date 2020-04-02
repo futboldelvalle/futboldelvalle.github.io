@@ -15,7 +15,7 @@ And cut paste code
     label.rt(btex $\mbox{30-60-90}$ etex, (-0.025cm,-0.5cm));
 
 Output should look like
-![Metapost Previewer](png)
+![Metapost Previewer](Screenshot_20200401-212607.png)
 
 45-45-90 Right Triangle
 
