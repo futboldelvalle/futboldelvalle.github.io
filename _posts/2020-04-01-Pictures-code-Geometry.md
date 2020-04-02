@@ -31,6 +31,6 @@ Output should look like
 You can create a spreadsheet using google sheets to create
 Pythagorean triples.
 
-![Screenshot 1]()
+![Screenshot 1](Screenshot_20200401-205417.png)
 
-![Screenshot 2]()
+![Screenshot 2](Screenshot_20200401-210146.png)
