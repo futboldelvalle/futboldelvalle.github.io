@@ -47,8 +47,7 @@ Here it is.  Recreated it
     label top ( btex $8$ etex, (-0.9cm,0) );
     label top ( btex $15$ etex, (0.8cm,0) );
     label bot ( btex $9$ etex, (-0.6cm,-0.4cm) );
-    label bot ( btex $6$ etex, 
-(0.6cm,-0.4cm) );
+    label bot ( btex $6$ etex, (0.6cm,-0.4cm) );
     label bot ( btex $10$ etex, (-1.4cm,-1.95cm) );
     label ulft ( btex $\mbox{Soccer}$ etex, (-0.9cm,1.1cm) );
     label urt ( btex $\mbox{Basketball}$ 
