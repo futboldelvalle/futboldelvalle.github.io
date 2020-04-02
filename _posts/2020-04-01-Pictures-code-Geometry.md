@@ -36,4 +36,19 @@ Pythagorean triples.
 ![Screenshot 2](/images/Screenshot_20200401-210146.png)
 
 I will upload code for Venn Diagram later.  Have it on laptop. Please be patient.
-
+Here it is.  Recreated it 
+    
+    draw fullcircle scaled 2cm shifted (-0.5cm,0cm);
+    draw fullcircle scaled 2cm shifted (0.5cm,0cm);
+    draw fullcircle scaled 2cm shifted (0cm,-1cm);
+    label bot ( btex $3$ etex, (0,0) );
+    label bot ( btex $7$ etex, (0,-1.2cm) );
+    label top ( btex $2$ etex, (0,0) );
+    label top ( btex $8$ etex, (-0.9cm,0) );
+    label top ( btex $15$ etex, (0.8cm,0) );
+    label bot ( btex $9$ etex, (-0.6cm,-0.4cm) );
+    label bot ( btex $6$ etex, 
+(0.6cm,-0.4cm) );
+    label bot ( btex $10$ etex, (-1.4cm,-1.95cm) );
+    label ulft ( btex $\mbox{Soccer}$ etex, (-0.9cm,1.1cm) );
+    label urt ( btex $\mbox{Basketball}$ 
