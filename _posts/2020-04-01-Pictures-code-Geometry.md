@@ -28,3 +28,9 @@ Output should look like
     label.ulft(btex $a\sqrt{2}$ etex, 1/2[A,B]);
     label.rt(btex $\mbox{45-45-90}$ etex, (-0.025cm,-0.5cm));
 
+You can create a spreadsheet using google sheets to create
+Pythagorean triples.
+
+![Screenshot 1]()
+
+![Screenshot 2]()
