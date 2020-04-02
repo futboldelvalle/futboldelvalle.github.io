@@ -15,7 +15,7 @@ And cut paste code
     label.rt(btex $\mbox{30-60-90}$ etex, (-0.025cm,-0.5cm));
 
 Output should look like
-![Metapost Previewer](Screenshot_20200401-212607.png)
+![Metapost Previewer](/images/Screenshot_20200401-212607.png)
 
 45-45-90 Right Triangle
 
@@ -31,9 +31,9 @@ Output should look like
 You can create a spreadsheet using google sheets to create
 Pythagorean triples.
 
-![Screenshot 1](Screenshot_20200401-205417.png)
+![Screenshot 1](/images/Screenshot_20200401-205417.png)
 
-![Screenshot 2](Screenshot_20200401-210146.png)
+![Screenshot 2](/images/Screenshot_20200401-210146.png)
 
 I will upload code for Venn Diagram later.  Have it on laptop. Please be patient.
 
