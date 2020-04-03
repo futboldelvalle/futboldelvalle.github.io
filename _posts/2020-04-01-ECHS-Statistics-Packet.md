@@ -1,7 +1,7 @@
 # ECHS-Covid19-Statistics Packet
 
-1 TOC
-{:to}
+1. TOC
+{:toc}
 
 ## From PC
 [http://onlinestatbook.com](http://onlinestatbook.com/)
