@@ -1,20 +1,23 @@
 # ECHS-Covid19-Statistics Packet
 
+1 TOC
+{:to}
 
-From PC
+## From PC
 [http://onlinestatbook.com](http://onlinestatbook.com/)
 
-On mobile/Tablet
+## On mobile/Tablet
 [http://onlinestatbook.com/mobile/index.html](http://onlinestatbook.com/mobile/index.html)
 
+## Week 1 March 23-27/April 6 through April 10
 
 Look at simulations:
 
-## Box plot 
+### Box plot 
 
 [http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html](http://onlinestatbook.com/mobile/graphing_distributions/boxplot_demo.html)
 
-## Mean and Median
+### Mean and Median
 
 [http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html](http://onlinestatbook.com/mobile/summarizing_distributions/mean_median_sim.html)
 
@@ -23,6 +26,7 @@ Look at simulations:
 
 [http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html](http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html)
 
+## Week 2 April 13 through April 17
 
 ## Variance
 
@@ -42,6 +46,8 @@ In
 [http://onlinestatbook.com/mobile/probability/bayes_demo.html](http://onlinestatbook.com/mobile/probability/bayes_demo.html)
 
 
+## Week 3 April 20 through April 24
+
 ## Varieties of normal distributions
 
 [http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html](http://onlinestatbook.com/mobile/normal_distribution/varieties_demo.html)
@@ -50,20 +56,21 @@ In
 
 [http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html](http://onlinestatbook.com/mobile/normal_distribution/normal_approx_demo.html)
 
-
 ## Sampling distribution
 
-###1 Basic Demo
+### 1 Basic Demo
 
 [http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html](http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v1.html)
 
-###2 Sampling Size Demo
+### 2 Sampling Size Demo
 
 [http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html](http://onlinestatbook.com/mobile/sampling_distributions/SampDist_v2.html)
 
 ### Central Limit Theorem
 
 [http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html](http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html)
+
+## Week 4 April 27 through May 1
 
 ### Confidence Interval
 
@@ -121,6 +128,8 @@ The probability that you will win a certain game is 0.3. You play the game 20 ti
 
 Question 6 out of 6.
 A biased coin has a .6 chance of coming up heads. You flip it 50 times. What is the variance of this distribution? 
+
+## Week 5 May 4 through May 8
 
 ### Multinomial
 
@@ -185,6 +194,8 @@ True/False: You are more likely to get a pattern of HTHHHTHTTH than HHHHHHHHTT w
 (13)
 True/False: Suppose that at your regular physical exam you test positive for a relatively rare disease. You will need to start taking medicine if you have the disease, so you ask your doctor about the accuracy of the test. It turns out that the test is 98\% accurate. The probability that you have Disease X is therefore 0.98 and the probability that you do not have it is .02. (relevant section)
 
+## Week 6 May 11 through May 15
+
 ### Calculators
 
 [http://onlinestatbook.com/mobile/calculators/calculators.html](http://onlinestatbook.com/mobile/calculators/calculators.html)
@@ -208,6 +219,8 @@ Only do \#4, \#5, \#9, \#22, \#23, \#26, \#27, \#29
 [http://onlinestatbook.com/mobile/regression/regression_exercises.html](http://onlinestatbook.com/mobile/regression/regression_exercises.html)
 
 \#2, \#5, \#6, \#9, \#12, \#18, \#19, \#20 and \#22
+
+## Week 7 May 18 through May 22
 
 ### Describing Bivariate Data
 
