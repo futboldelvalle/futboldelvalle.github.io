@@ -9,6 +9,8 @@
 ## On mobile/Tablet
 [http://onlinestatbook.com/mobile/index.html](http://onlinestatbook.com/mobile/index.html)
 
+2
+
 ## Week 1 March 23-27/April 6 through April 10
 
 Look at simulations:
@@ -25,6 +27,8 @@ Look at simulations:
 ## Correlation
 
 [http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html](http://onlinestatbook.com/mobile/describing_bivariate_data/pearson_demo.html)
+
+3
 
 ## Week 2 April 13 through April 17
 
@@ -45,6 +49,7 @@ In
 
 [http://onlinestatbook.com/mobile/probability/bayes_demo.html](http://onlinestatbook.com/mobile/probability/bayes_demo.html)
 
+4
 
 ## Week 3 April 20 through April 24
 
@@ -69,6 +74,8 @@ In
 ### Central Limit Theorem
 
 [http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html](http://onlinestatbook.com/mobile/sampling_distributions/clt_demo.html)
+
+5
 
 ## Week 4 April 27 through May 1
 
@@ -128,6 +135,8 @@ The probability that you will win a certain game is 0.3. You play the game 20 ti
 
 Question 6 out of 6.
 A biased coin has a .6 chance of coming up heads. You flip it 50 times. What is the variance of this distribution? 
+
+6
 
 ## Week 5 May 4 through May 8
 
@@ -193,6 +202,8 @@ True/False: You are more likely to get a pattern of HTHHHTHTTH than HHHHHHHHTT w
 
 (13)
 True/False: Suppose that at your regular physical exam you test positive for a relatively rare disease. You will need to start taking medicine if you have the disease, so you ask your doctor about the accuracy of the test. It turns out that the test is 98\% accurate. The probability that you have Disease X is therefore 0.98 and the probability that you do not have it is .02. (relevant section)
+
+7
 
 ## Week 6 May 11 through May 15
 
