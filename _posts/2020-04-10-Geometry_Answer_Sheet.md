@@ -2,8 +2,8 @@
 
 Edit with the Docs app
 Make tweaks, leave comments, and share with others to edit at the same time.
-NO THANKSGET THE APP
-Assignment Answer Sheet
+
+## Assignment Answer Sheet
 
 Name: <please type your name here>
 
@@ -19,16 +19,16 @@ March 24
 
 Pythagorean Theorem
 
-    b=12
-    c=
-    c=
-    c=
-    c=
-    c=
-    c=
-    c=
-    a=
-     c= 
+(1) b=12
+(2) c=
+(3) c=
+(4) c=
+(5) c=
+(6) c=
+(7) c=
+(8) c=
+(9) a=
+(10) c= 
 
 March 27
 
