@@ -20,14 +20,23 @@ March 24
 Pythagorean Theorem
 
 (1) b=12
+
 (2) c=
+
 (3) c=
+
 (4) c=
+
 (5) c=
+
 (6) c=
+
 (7) c=
+
 (8) c=
+
 (9) a=
+
 (10) c= 
 
 March 27
