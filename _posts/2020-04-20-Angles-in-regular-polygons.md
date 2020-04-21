@@ -19,3 +19,26 @@ Triangle 3 Sides
 
 results in ![Triangle](/images/3.svg)
 
+Now by changing the number following the command
+    set samples N+1
+where N is the polygon you want to draw.  For a square, the command becomes
+    set samples 5
+And the result will be
+![Square](/images/4.svg)
+
+The following pictures are in SVG format which means
+Scalar Vector Graphics, a PNG represents Portable Network Graphics,
+and so on.
+
+![Pentagon](/images/5.svg)
+
+![Hexagon](/images/6.svg)
+
+![Heptagon](/images/7.svg)
+
+![Octagon](/images/8.svg)
+
+![Nonagon](/images/9.svg)
+
+![Decagon](/images/10.svg)
+
