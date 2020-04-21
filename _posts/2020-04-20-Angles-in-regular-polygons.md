@@ -60,4 +60,4 @@ Paste it in Troy Henderson's Metapost Previewer
 You can change the 5 to a 6 and draw a hexagon. 
 On your own you can cut and paste and use the metapost previewer
 
-http://www.tlhiv.org/mppreview/
+![http://www.tlhiv.org/mppreview/](http://www.tlhiv.org/mppreview/) 
