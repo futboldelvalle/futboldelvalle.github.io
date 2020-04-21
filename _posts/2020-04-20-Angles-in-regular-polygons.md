@@ -1,5 +1,7 @@
 # Angles(interior and exterior) in regular polygons
 
+## Using Gnuplot 
+
 For a polygon with three sides, one can use gnuplot
 
 Triangle 3 Sides
@@ -41,4 +43,17 @@ and so on.
 ![Nonagon](/images/9.svg)
 
 ![Decagon](/images/10.svg)
+
+## Using Metapost
+
+    beginfig(1)
+      n:=5;
+      draw for i=0 step 1 until n-1:
+        1cm*up rotated (i*360/n) --
+      endfor cycle;
+    endfig;
+    end
+Paste it in Troy Henderson's Metapost Previewer
+
+![Pentagon-Metapost](/images/pentagon.svg)
 
