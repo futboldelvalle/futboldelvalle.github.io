@@ -61,3 +61,6 @@ You can change the 5 to a 6 and draw a hexagon.
 On your own you can cut and paste and use the metapost previewer
 
 ![http://www.tlhiv.org/mppreview/](http://www.tlhiv.org/mppreview/) 
+
+Without using a protractor you can verify that the interior angles in a triangle measure 60 degrees, the exterior 120.  For a square both are 90 and for a pentagon, the angle measures 108 degrees and exterior is 72 degrees.
+
